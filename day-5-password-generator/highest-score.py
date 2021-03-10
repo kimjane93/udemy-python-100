@@ -8,7 +8,7 @@ print(student_scores)
 
 # min(student_scores) out puts min value in that list\
 
-# for loop, range function cant use max or min
+# for loop, cant use max or min
 highest_score = 0
 
 for score in student_scores:
